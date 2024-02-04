@@ -7,3 +7,5 @@ Press create script and go inside of RoSniperX.JSON and copy its contents.
 Go back to tampermonkey, paste the script inside of the thingy and file>save.
 Go to roblox.com and check a server to see if it works,
 ( USER HAS TO BE IN A CERTAIN GAME YOU CHECK IT WONT LET YOU JOIN UNLESS YOU USE THE SCRIPT IN THE GAME THE USER IS IN)
+
+![image](https://github.com/shezan78/RoSniperX/assets/97002070/a203de96-b5d9-48de-91de-5eb1e808a503)
