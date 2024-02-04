@@ -2,7 +2,7 @@
 
 # Such a simple program yet has so many usages.
 
-```JSON
+```lua
 Step 1, go to tampermoney after getting the extention from chrome web store.
 Press create script and go inside of RoSniperX.JSON and copy its contents.
 Go back to tampermonkey, paste the script inside of the thingy and file>save.
